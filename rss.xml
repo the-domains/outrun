@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Outrun]]></title>
         <description><![CDATA[Outrun]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/outrun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 13:48:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 13:49:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/outrun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Advice to myself on day one of my career</p>]]></description>
+            <link>https://thegrid.ai/outrun/111f3aaa-322d-4a2c-9654-ce9d4ac83790/index.html</link>
+            <guid isPermaLink="false">111f3aaa-322d-4a2c-9654-ce9d4ac83790</guid>
+            <pubDate>Sun, 03 Jan 2016 13:49:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>About me...</p>]]></description>
-            <link>undefined4517d2f0-e17c-4cba-abc3-92ddc1a3fe1a/index.html</link>
+            <link>https://thegrid.ai/outrun/4517d2f0-e17c-4cba-abc3-92ddc1a3fe1a/index.html</link>
             <guid isPermaLink="false">4517d2f0-e17c-4cba-abc3-92ddc1a3fe1a</guid>
             <pubDate>Sun, 03 Jan 2016 13:48:26 GMT</pubDate>
         </item>
