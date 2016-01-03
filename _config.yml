@@ -1,7 +1,7 @@
 name: Outrun
 favicon: null
-layout_spectrum: 0.3619111208245158
-typography_spectrum: 0.4070291663520038
+layout_spectrum: 0.24564
+typography_spectrum: 0.2228
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7271828267257661
+    - '#1cb9c8'
+    - '#ffffff'
+    - '#222222'
+    - '#bababa'
+    - '#5b5b5b'
+  brandStrength: 1
   lightness: 0.7430094173178077
   saturation: 0.9726098931860179
   rhythmicContrast: 0.43951692688278854
